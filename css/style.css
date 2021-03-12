@@ -1,0 +1,9 @@
+body {  
+    position: relative;  
+}
+section {
+    padding: 150px 0;
+}
+.jumbotron {
+    height: 650px;
+}
